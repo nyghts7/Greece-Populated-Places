@@ -9,3 +9,5 @@ https://www.openstreetmap.org/copyright
 https://github.com/tyrasd/overpass-turbo
 
 actual data is found in the greece-json.txt file
+
+Total time: ~ 4 hours
