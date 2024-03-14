@@ -1,4 +1,4 @@
-this data contains 12750 populated places with a total population of 10,940,777
+this data contains 12,750 populated places with a total population of 10,940,777
 
 population data comes from pop-stat.mashke, while coordinates come from openstreetmap via overpass-turbo
 
